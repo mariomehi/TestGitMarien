@@ -8,6 +8,9 @@ namespace TestGitMarien
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bella");
+            Console.WriteLine("step1");
+            Console.WriteLine("step2");
+            Console.WriteLine("step3");
         }
     }
 }
